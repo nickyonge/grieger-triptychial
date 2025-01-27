@@ -13,7 +13,7 @@ The [projection itself](http://bgrieger.bplaced.net/bgrieger008.html) was create
 
 ## Additional links
 
-- [Map-Projections.net](https://map-projections.net/recommended-list.php) reference post on the Grieger Triptychial projection (where I first came across it! This is a fun website to [browse](https://map-projections.net/recommended-list.php))
+- [Map-Projections.net](https://map-projections.net/single-view/grieger-triptychial) reference post on the Grieger Triptychial projection (where I first came across it! This is a fun website to [browse](https://map-projections.net/recommended-list.php))
 - [Map-Projections.net](https://blog.map-projections.net/lee-markley-calm-and-grieger) blog post by site creator Tobias Jung on the background of the projection, GeoCart recreation, related projections, and its inclusion on the site
 - [PROJ documentation](https://proj.org/en/stable/operations/projections/peirce_q.html) details on the Peirce Quincuncial projection, and using it to recreate the Grieger Triptychial projection
 - [Harvard.edu database](https://ui.adsabs.harvard.edu/abs/2020EGUGA..22.9885G/abstract) link to Dr. Grieger's 2020 optimized projections triptychial/Spilhaus projection paper
