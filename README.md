@@ -11,8 +11,8 @@ Software used in this project:
 - [Procreate for iPad](https://procreate.com/) (paid)
 - [GeoCart 3](https://www.mapthematics.com/) for Windows (paid, trial version used)
 - [QGIS 3.34](https://qgis.org/) for Windows (free, open source, also available on Mac, Linux, and others)
-- [iCloud Drive](https://www.icloud.com/iclouddrive/) to transfer files between tablet and computer
-- [Fork](https://git-fork.com/) for Windows (also available on Mac) as a standalone Git client (great for projects with little-to-no code in them)
+- [iCloud Drive](https://www.icloud.com/iclouddrive/) (free/subscription) to transfer files between tablet and computer
+- [Fork](https://git-fork.com/) for Windows (paid with trial available, also available on Mac) as a standalone Git client (great for projects with little-to-no code in them)
 
 Creative tools used in this project:
 - Canvases treated with gesso (white or black), 2:1 aspect ratio sized (typically 10x20", 12x24", 20x40", and 24x48", with about ~3" added per side to accommodate framing)
