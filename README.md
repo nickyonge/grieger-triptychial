@@ -1,7 +1,7 @@
 # Grieger Triptychial Map Assets
 Resources related to the Grieger Triptychial map projection, and its display and projection
 
-![Image of the Grieger Triptychial Projection, white coastlines with gray latitude/longitude lines, on a black background.](jpg/grieger_triptychial-latlong_land-black_with_border.jpg)
+![Image of the Grieger Triptychial Projection, white coastlines with gray latitude/longitude lines, on a black background.](jpg/grieger_triptychial-latlong_land-black_with_border.jpg?raw=true)
 
 ## About this repository
 This repository is primarily for the distribution of assets related to the Grieger Triptychial map projection as redrawn and edited by Nick Yonge, for his hand-drawn map project.
