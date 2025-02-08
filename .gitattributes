@@ -7,11 +7,14 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
 *.tiff filter=lfs diff=lfs merge=lfs -text
+*.raw filter=lfs diff=lfs merge=lfs -text
 
-# LFS amadine and procreate image editor project files
+# LFS amadine, procreate, and photoshop image editor project files
 *.amdc filter=lfs diff=lfs merge=lfs -text
 *.procreate filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
 
 # LFS silhouette studio project files
 *.studio3 filter=lfs diff=lfs merge=lfs -text
