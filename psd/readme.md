@@ -6,7 +6,11 @@ Adobe Photoshop project files, all created by Nick Yonge and exported directly f
   - 5400x2600px
   - Images are used for [Geocart 3](https://www.mapthematics.com/) as databases, to quickly apply colour variations to map projections.
   - Modify the colours on the Land Colour and Ocean Colour layers to make different appearances, as seen in the [jpg](../jpg) folder.
+  - Stroke blend effects on the Land group are used for inner and outer stroke colours on the landmasses
+    - The SVG map of the world has been duplicated, rasterized, and extended 200px beyond the canvas on all sides with landmasses. This prevents the Inner Stroke from rendering at the edge of the image.
+  - Filesize Optimizer layer is done to minimize the PSDs size. PSDs auto-generate an embedded thumbnail on save, based on their contents. By making a solid black layer atop the rest of the image, the filesize can be significantly reduced.
   - SVG embedded in the PSD is `Equirectangular projection world map without borders.svg` from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Equirectangular_projection_world_map_without_borders.svg)
+    - SVG source file is found in the [svg](../svg) folder.
     - Ebrahim, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
 > [!IMPORTANT]
