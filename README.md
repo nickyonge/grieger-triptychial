@@ -6,6 +6,8 @@ Resources related to the Grieger Triptychial map projection, and its display and
 ## About this repository and project
 This repository is primarily for the distribution of assets related to the Grieger Triptychial map projection as redrawn and edited by Nick Yonge, for his hand-drawn map project.
 
+Also see: [source repository](https://github.com/nickyonge/evto-web/) for the Everywhere Together companion website.
+
 Software used in this project:
 - [Amadine for iPad](https://amadine.com/) (paid or subscription, also available on Mac)
 - [Procreate for iPad](https://procreate.com/) (paid)
@@ -13,12 +15,19 @@ Software used in this project:
 - [QGIS 3.34](https://qgis.org/) for Windows (free, open source, also available on Mac, Linux, and others)
 - [iCloud Drive](https://www.icloud.com/iclouddrive/) (free/subscription) to transfer files between tablet and computer
 - [Fork](https://git-fork.com/) for Windows (paid with trial available, also available on Mac) as a standalone Git client (great for projects with little-to-no code in them)
+- [LumaFusion](https://luma-touch.com/luma-fusion-for-ios/) for iOS (paid/subscription, also on Win, Mac, ChromeOS, and Android) for video editing and making some GIFs
+- [Audacity](https://www.audacityteam.org/) for Windows (free, open source, also on Mac and Linux) for audio editing
+- [VSCode](https://code.visualstudio.com/) for Windows (free, open source, also on Mac and Linux) for code editing and building the [EvTo website](https://github.com/nickyonge/evto-web/)
+- [Silhouette Studio](https://www.silhouetteamerica.com/silhouette-studio) for Windows (free with upgrades, Designer Edition used, also on Mac) for drawing/cutting postcards and illustrated prints using a Silhouette Cameo cutting machine (see below).
 
 Creative tools used in this project:
-- Canvases treated with gesso (white or black), 2:1 aspect ratio sized (typically 10x20", 12x24", 20x40", and 24x48", with about ~3" added per side to accommodate framing)
+- Canvases treated with gesso (white or black), 2:1 aspect ratio sized (typically 10x20", 12x24", 20x40", and 24x48", with about ~3" added per side to accommodate gallery framing)
 - Acrylic paint to create base colour layers as needed
-- Permanent marker, or acrylic/oil paint pens (typically water-based but sometimes alcohol-based), to illustrate coastlines and lat/long lines
+- Permanent marker, or acrylic/oil paint pens (typically water-based but sometimes alcohol-based), to illustrate coastlines and lat/long lines on canvas
+- [Sakura Pigma Micron](https://www.sakuraofamerica.com/product/pigma-micron/) ink pens (water-based, archival quality) for linework on postcards and illustrated prints
 - Wall-mounted projector (a used Bomaker GC355 that I got cheap, but _oh my god_ I'd love something better) to project digital image of the map lines onto prepared canvas
+- [Silhouette Cameo 4](https://www.silhouetteamerica.com/cameo-4) desktop cutting machine, to draw and cut illustrated prints and postcards
+- 110lb cardstock paper for illustrated prints, 140lb watercolour paper for postcards
 
 ## About the projection and its creator 
 The [Grieger Triptychial Projection](http://bgrieger.bplaced.net/bgrieger008.html) was created by [Dr. Björn Grieger](http://bgrieger.bplaced.net/) in 2008 and published in 2019.
