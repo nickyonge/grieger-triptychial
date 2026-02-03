@@ -37,6 +37,10 @@ It is derived from [Adams hemisphere-in-a-square projection](https://en.wikipedi
 - Grieger, B. (2019).“Quincuncial adaptive closed Kohonen (QuACK) map for the irregularly shaped comet 67P/Churyumov-Gerasimenko”. A&A ‍630, A1. https://doi.org/10.1051/0004-6361/201834841
 - Grieger, B. (2020). “Optimized global map projections for specific applications: the triptychial projection and the Spilhaus projection”. EGU2020-9885. https://doi.org/10.5194/egusphere-egu2020-9885
 
+### A note on assets, attribution, and licenses
+
+Directories in this repo will contain further information about specific asset licenses and attribution. A Google Sheet containing information about other assets and their use in this project [can be found here](https://docs.google.com/spreadsheets/d/1Wi1CmCTxVItOUct5POrNblK7BdgJ2cbxVtHbZvfKyUQ/).
+
 ## Additional links
 
 - [Map-Projections.net](https://map-projections.net/single-view/grieger-triptychial) reference post on the Grieger Triptychial projection (where I first came across it! This is a fun website to [browse](https://map-projections.net/recommended-list.php))
