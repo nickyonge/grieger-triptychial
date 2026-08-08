@@ -4,23 +4,39 @@ Resources related to the Grieger Triptychial map projection, and its display and
 ![Image of the Grieger Triptychial Projection, white coastlines with gray latitude/longitude lines, on a black background.](jpg/grieger_triptychial-latlong_land-black_with_border.jpg?raw=true)
 
 ## About this repository and project
-This repository is primarily for the distribution of assets related to the Grieger Triptychial map projection as redrawn and edited by Nick Yonge, for his hand-drawn map project.
+This repository is primarily for the distribution of assets related to the Grieger Triptychial map projection as redrawn and edited by Nick Yonge, mainly for his hand-drawn map project, *Everywhere Together*.
 
-Also see: [source repository](https://github.com/nickyonge/evto-web/) for the Everywhere Together companion website.
+### Everywhere Together 
+The art project these maps are being drawn and used for. Will share more about it eventually!
 
-Software used in this project:
+Also see: [source repository](https://github.com/nickyonge/evto-web/) for the *Everywhere Together* companion website.
+
+## Software, equipment, and resources used
+All the various tools and supplies, analog and digital, used for working on the contents of this repo, and *Everywhere Together*. 
+
+### Software used in this project
+- [Affinity Studio](https://www.affinity.studio/) for Windows (free, also available on Mac) for raster-vector conversions and editing heightmaps for use in Silhouette Studio
+- [Affinity V2](https://affinity.serif.com/en-us/v2/) for iPad (free) for vector work on tablet, because (as of this writing) Affinity Studio is *still* not available for iPad.
+- [Procreate for iPad](https://procreate.com/) (paid), for drawing and some animation 
 - [Amadine for iPad](https://amadine.com/) (paid or subscription, also available on Mac)
-- [Procreate for iPad](https://procreate.com/) (paid)
 - [GeoCart 3](https://www.mapthematics.com/) for Windows (paid, trial version used)
-- [QGIS 3.34](https://qgis.org/) for Windows (free, open source, also available on Mac, Linux, and others)
+- [QGIS 4.2](https://qgis.org/) and [3.34](https://qgis.org/project/visual-changelogs/visualchangelog334/) for Windows (free, open source, also available on Mac, Linux, and others) for interpreting geo data and heightmap generation
 - [iCloud Drive](https://www.icloud.com/iclouddrive/) (free/subscription) to transfer files between tablet and computer
 - [Fork](https://git-fork.com/) for Windows (paid with trial available, also available on Mac) as a standalone Git client (great for projects with little-to-no code in them)
 - [LumaFusion](https://luma-touch.com/luma-fusion-for-ios/) for iOS (paid/subscription, also on Win, Mac, ChromeOS, and Android) for video editing and making some GIFs
 - [Audacity](https://www.audacityteam.org/) for Windows (free, open source, also on Mac and Linux) for audio editing
 - [VSCode](https://code.visualstudio.com/) for Windows (free, open source, also on Mac and Linux) for code editing and building the [EvTo website](https://github.com/nickyonge/evto-web/)
+- [ImageMagick](https://imagemagick.org/) for Windows (free, open source, also on Mac and Linux) for batch image conversion (eg, converting numerous .png files to .jpg for use with GeoCart)
+- [FotoKilof](https://github.com/TeaM-TL/FotoKilof/) for Windows (free, open source, also on Mac and Linux), a GUI interface to interact with ImageMagick, rather than command line
 - [Silhouette Studio](https://www.silhouetteamerica.com/silhouette-studio) for Windows (free with upgrades, Designer Edition used, also on Mac) for drawing/cutting postcards and illustrated prints using a Silhouette Cameo cutting machine (see below).
 
-Creative tools used in this project:
+### Web apps and sites used in this project
+- [Ezgif.com](https://ezgif.com/), for editing and optimizing gifs
+- [TinyPNG.com](https://tinypng.com/), for image compression 
+- [Uiverse.io](https://uiverse.io/), for web UI component templates
+- [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) by [Yann Armelin (Yqnn)](https://github.com/Yqnn)
+
+### Creative tools used in this project
 - Canvases treated with gesso (white or black), 2:1 aspect ratio sized (typically 10x20", 12x24", 20x40", and 24x48", with about ~3" added per side to accommodate gallery framing)
 - Acrylic paint to create base colour layers as needed
 - Permanent marker, or acrylic/oil paint pens (typically water-based but sometimes alcohol-based), to illustrate coastlines and lat/long lines on canvas
