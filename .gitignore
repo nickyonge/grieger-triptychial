@@ -1,2 +1,5 @@
 # Ignore the web/ subfolder, used for the Everywhere Together website repo
 web/
+
+# Ignore Affinity Studio AF Lock files
+*.af~lock~
